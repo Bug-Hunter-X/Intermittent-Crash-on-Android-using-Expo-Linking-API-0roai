@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Linking` API to open a URL in a separate app.  The URL opens correctly, but sometimes the Expo app crashes immediately after.  The crash is not consistently reproducible, making debugging difficult. The crash happens on Android only.
